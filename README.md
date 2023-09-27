@@ -40,9 +40,9 @@
   <p text-align: center> Uma landing page para projetos pessoais.</p>
   <a  align="center" width="50%" href="https://imgur.com/Xhl2yL5"><img src="https://i.imgur.com/Xhl2yL5.png" title="source: imgur.com" /></a>
   <br>
-    <img align="center" width="50%" src="https://imgur.com/mKBNEo9">
+    <a align="center" width="50%" href="https://imgur.com/a9O3os3"><img src="https://i.imgur.com/a9O3os3.png" title="source: imgur.com" /></a>
   <br>
-    <img align="center" width="50%" src="https://imgur.com/d2H0am8">
+    <a align="center" width="50%" href="https://imgur.com/xUoCvuR"><img src="https://i.imgur.com/xUoCvuR.png" title="source: imgur.com" /></a>
   <br>
 </div>
 
