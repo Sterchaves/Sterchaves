@@ -36,10 +36,9 @@
   ###  
   
 <div style="background-color: #f7f7f7; text-align: center; padding: 20px;">
-  <h2 text-align: center> Landing Page com Grid </h2>
+  <h2 text-align: center,  href="https://sterchaves.github.io/projeto-landingpage-grid/"> Landing Page com Grid </h2>
   <p text-align: center> Uma landing page para projetos pessoais.</p>
-  <a text-align: center, href="https://sterchaves.github.io/projeto-landingpage-grid/">Projeto</a>
-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 </div>
