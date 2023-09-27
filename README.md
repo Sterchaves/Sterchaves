@@ -38,7 +38,7 @@
 <div style="background-color: #f7f7f7; text-align: center; padding: 20px;">
   <h2 text-align: center> <a href="https://sterchaves.github.io/projeto-landingpage-grid/">Landing Page com Grid</a></h2>
   <p text-align: center> Uma landing page para projetos pessoais.</p>
-  <img align="center" width="50%" src="https://imgur.com/UboVlme">
+  <a  align="center" width="50%" href="https://imgur.com/Xhl2yL5"><img src="https://i.imgur.com/Xhl2yL5.png" title="source: imgur.com" /></a>
   <br>
     <img align="center" width="50%" src="https://imgur.com/mKBNEo9">
   <br>
