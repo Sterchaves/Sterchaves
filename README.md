@@ -19,7 +19,7 @@
 
   <div>
   <h2 align="center">Sobre Mim</h2>
-  <p >Eu sou um desenvolvedor apaixonado por criar coisas incríveis usando HTML, CSS, JavaScript e Java.</p>
+  <p >...</p>
 </div>
 
   <br>
